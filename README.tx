@@ -1,2 +1,13 @@
+Computer simulation
+
+Random numbers generators
+* Minimal Standar Generator
+* Ruby.Random
+
+Test
+* The Chi-Squared Test (for Uniformity)
+* Poker test with k = 2, k = 3
+
+
 # To run program.
-$ cd generator_gem && ruby main.rb
+$ ruby main.rb
